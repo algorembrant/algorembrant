@@ -1,3 +1,9 @@
+### What I know
+|Language |Development Invironment|
+|-|-|
+|pinescript  |Pine Editor |
+|python  |Jupyter Notebook  |
+
 **Lifetime moto**
 
 *"Stop bookmarking/saving shits. Take action."*
