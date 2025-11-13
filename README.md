@@ -3,7 +3,7 @@ I'm actually a **1st-year college university dropout.** Unemployed.
 
 ---
 ### What I'm Focused On
-I proram and make automated trading indicators, strategies, and executions. An algorithmic Trader. **Why?** "*To print moneeh, shshshsh*"
+I program and make automated trading indicators, strategies, and executions. An algorithmic Trader. **Why?** "*To print moneeh, shshshsh*"
 <div align="center" style="display:flex; gap:0;">
   <img src="https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Pinescript%20Language/Strategies/images/pasted-image%20(1).png" width="500"/>
 </div>
