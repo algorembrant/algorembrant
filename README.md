@@ -11,6 +11,8 @@ I'm actually a **1st-year college university dropout.** Unemployed.
 ### What I care on the Technical side
 `Trading` `Finance` `Research` `Statistics` `Artificial Intelligence` `Automated Workflow` `Coding` `Programming` `Art` `Engineering`
 
+---
+
 ### 💡 Lifetime moto
 
 >*"Stop bookmarking/saving shits. Take action."*
