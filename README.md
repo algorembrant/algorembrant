@@ -1,8 +1,15 @@
-### What I know
+###  Reality check
+I'm actually a 1st-year clollege university dropout. Unemployed. 
+
+---
+### What I'm focused on
 |Language |Development Invironment|
 |-|-|
 |pinescript  |Pine Editor |
 |python  |Jupyter Notebook  |
+
+### What I care on the Technical side
+`Trading` `Finance` `Research` `Statistics` `Artificial Inteleggence` `Automated Worflow` `Coding` `Programing` `Art` `Engineering` 
 
 ### Lifetime moto
 
