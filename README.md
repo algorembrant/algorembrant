@@ -3,10 +3,10 @@ I'm actually a **1st-year college university dropout.** Unemployed.
 
 ---
 ### What I'm Focused On
-| **Language** | **Development Environment** |
-|---------------|-----------------------------|
-| Pine Script   | Pine Editor (TradingView)   |
-| Python        | Jupyter Notebook            |
+| **Language** |  **Icon**  | **Development Environment** |  **Icon**  | 
+|---------------|-----------------------------|--|--|
+| Pine Script   | <img src="https://www.ayondo.com/assets/logo/pine_script_logo.png" width="30"/> | Pine Editor (TradingView)   |<img src="https://crystalpng.com/wp-content/uploads/2025/03/tradingview-logo.png" width="30" alt="TradingView logo"/>|
+| Python        | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="30"/> |  Jupyter Notebook            |<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="30"/>|
 
 ### What I care on the Technical side
 `Trading` `Finance` `Research` `Statistics` `Artificial Intelligence` `Automated Workflow` `Coding` `Programming` `Art` `Engineering`
@@ -23,5 +23,5 @@ I'm actually a **1st-year college university dropout.** Unemployed.
 
 >*"Think enough, do well enough, and rest well enough. Repeat"*
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=algorembrant&theme=whitek&hide_border=true&disable_animations=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algorembrant&layout=compact&stats_format=bytes&disable_animations=true&custom_title=Size&card_widthcard_width=100&hide_border=true)
+
+
