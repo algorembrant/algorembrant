@@ -4,7 +4,7 @@
 |pinescript  |Pine Editor |
 |python  |Jupyter Notebook  |
 
-**Lifetime moto**
+### Lifetime moto
 
 *"Stop bookmarking/saving shits. Take action."*
 
