@@ -1,5 +1,5 @@
 ###  Reality check
-I'm actually a **1st-year college university dropout.** Unemployed.
+I'm actually a **1st-year college university dropout.** Unemployed. **I'm not that smart** and ain't a vibecoder either. I just do best for myself. Story short, *I can't code* but programs using different LLMs.
 
 ---
 ### What I'm Focused On
