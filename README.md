@@ -19,7 +19,7 @@ I program and make automated trading indicators, strategies, and executions. An 
 
 
 ### What I care on the Technical side
-`Trading` `Finance` `Research` `Statistics` `Artificial Intelligence` `Automated Workflow` `Coding` `Programming` `Art` `Engineering`
+`Trading` `Finance` `Research` `Statistics` `Machine Learning` `Large Language Models` `Artificial Intelligence` `Automated Workflow` `Coding` `Programming` `Prompting` `Art` `Engineering`
 
 ---
 
