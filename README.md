@@ -41,6 +41,11 @@ I program and make automated trading indicators, strategies, and executions. An 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorembrant&layout=compact&stats_format=bytes&disable_animations=true&custom_title=Size&card_widthcard_width=100&hide_border=true">
 </div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=algorembrant.algorembrant&"  />
+</div>
+
+
 
 
 
