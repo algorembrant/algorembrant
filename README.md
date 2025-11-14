@@ -3,6 +3,9 @@ I'm actually a **1st-year college university dropout.** Unemployed.
 
 ---
 ### What I'm Focused On
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
 I program and make automated trading indicators, strategies, and executions. An algorithmic Trader.
 <div align="center" style="display:flex; gap:0;">
   <img src="https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Pinescript%20Language/Indicators/89RS.Rangebreakout-Stoporder/pasted-image%20(3).png" width="500"/>
@@ -37,6 +40,9 @@ I program and make automated trading indicators, strategies, and executions. An 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=algorembrant&theme=whitek&hide_border=true&disable_animations=true" width=350">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorembrant&layout=compact&stats_format=bytes&disable_animations=true&custom_title=Size&card_widthcard_width=100&hide_border=true">
 </div>
+
+
+
 
 
 
