@@ -8,7 +8,7 @@ I'm actually a **1st-year college university dropout.** Unemployed. **I'm not th
 
 I program and make automated trading indicators, strategies, and executions. An algorithmic Trader.
 <div align="center" style="display:flex; gap:0;">
-  <img src="https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Pinescript%20Language/Indicators/89RS.Rangebreakout-Stoporder/pasted-image%20(3).png" width="500"/>
+  <img src="https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Images/pasted-image%20(4).png" width="500"/>
 </div>
 
 <div align="center">
