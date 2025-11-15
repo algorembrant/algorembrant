@@ -8,7 +8,7 @@ I'm actually a **1st-year college university dropout.** Unemployed. **I'm not th
 
 I program and make automated trading indicators, strategies, and executions. An algorithmic Trader. I also make *ready-to-paste* scripts for you to copy or fork and have the bot *(not simulation)* for yourself. Enjoy!
 <div align="center" style="display:flex; gap:0;">
-  <img src="https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Images/pasted-image%20(4).png" width="500"/>
+  <img src="https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Images/pasted-image%20(6).png" width="1000"/>
 </div>
 
 <div align="center">
