@@ -6,7 +6,7 @@ I'm actually a **1st-year college university dropout.** Unemployed. **I'm not th
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-I program and make automated trading indicators, strategies, and executions. An algorithmic Trader.
+I program and make automated trading indicators, strategies, and executions. An algorithmic Trader. i also make ready-to-paste scripts for you to copy and have the bot *(not simulation)* for yourself. Enjoy!
 <div align="center" style="display:flex; gap:0;">
   <img src="https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Images/pasted-image%20(4).png" width="500"/>
 </div>
