@@ -28,7 +28,7 @@ I program and make automated trading indicators, strategies, and executions. A q
 
 ###  Technical Skills are nothing without Psychology
 
-![img](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Images/pasted-image%20(8).png?raw=true)
+![img](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Images/pasted-image%20(9).png?raw=true)
 
 ---
 
