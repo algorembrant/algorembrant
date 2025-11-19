@@ -15,7 +15,7 @@ I program and make automated trading indicators, strategies, and executions. A q
 
 | **Language** |  **Icon**  | **Development Environment** |  **Icon**  | 
 |---------------|-----------------------------|--|--|
-| Pine Script   | <img src="https://www.ayondo.com/assets/logo/pine_script_logo.png" width="30"/> | Pine Editor (TradingView)   | <img src="https://crystalpng.com/wp-content/uploads/2025/03/tradingview-logo.png" width="30" alt="TradingView logo"/> |
+| Pine Script   | <img src="https://miro.medium.com/v2/resize:fit:480/1*aMKv9UbI3fZiAVJxNTTwew.png" width="30"/> | Pine Editor (TradingView)   | <img src="https://crystalpng.com/wp-content/uploads/2025/03/tradingview-logo.png" width="30" alt="TradingView logo"/> |
 | Python        | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="30"/> |  Jupyter Notebook            | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="30"/> |
 | MetaQuotes Language 5        | <img src="https://www.metaquotes.net/c/2/0/mql5_logo__2.jpg" width="30"/> |  Meta Trader 5            | <img src="https://strapi-content-staging.s3.ap-southeast-2.amazonaws.com/medium_metatrader_icon_55a5568545.png" width="30"/> |
 
