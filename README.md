@@ -32,55 +32,62 @@ I program and make automated trading indicators, strategies, and executions. A q
 ![img](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Images/pasted-image%20(9).png?raw=true)
 
 ---
-## How to view
 
-Each project is documented.
+## QAT-QuantitativeAlgorithmicTrading
 
-1. **`CODE.ipynb`** – Contains full project logic, details and features inside a jupyter notebook.  
+    Pinescript Folder
+    Python Folder    
+    MQL5 Folder     
+    Concepts and Topics Folder
+    Images Folder
+
+## Pinescript Folder
+
+|   View    |   Info    |   Status  |   Included Details    |   Language    |
+|-|-|-|-|-|
+| **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|    Sunstoic's charting tool 2025 | Finished    |   indicators, TPO profile, Volume profile  |   Pinescript  |
+| **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|  The 8-9pm Rangebreakout Stoporder Method. | Finished    |   indicators, an Opening Range Break (ORB) reference.  |   Pinescript  |
+| **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|    Asia/manila Time Logic  | Finished    |  code layout |   Pinescript  |
+| **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|    1min 4CCP & 3min 6CBP Pattern Detector, 30minute bars (Asia/Manila) | Finished    |  indicator, plot boxes |   Pinescript  |
+| **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|    Risk Manager and Position Sizing | Finished    |  indicator, dynamic risk reward ratio plotter with position sizing |   Pinescript  |
+
+## Python Folder
+
+|   View    |   Info    |   Status  |   Included Details    |   Language    |
+|-|-|-|-|-|
+| **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|    Broker Account Portfolio Identification | Finished    |   fetching data from mt5, chart plotting  |   Python  |
+| **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|    Market Profile (volumedata ver), not TPO-based | Finished    |   chart plotting and vertical profiles |   Python  |
+| **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|    Chart plotting | Finished    |  code layout |   Python  |
 
 
+## MQL5 Folder
 
-## Indicator & Strategies Lists
+|   View    |   Info    |   Status  |   Included Details    |   Language    |
+|-|-|-|-|-|
+| **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|    Hedging Expert Advisor (EA) for MT5 | Finished    |   Deployed EA algorithmic trading bot, stoporder hedging, stoploss trailing, `4hour trial, six 1h, 12h finale (22hr+ duration tests)` `documented & research paper` |   MQL5  |
 
-| CODE | Info | Status | Included Details | Language|
-|------|------|--------|---------|-|
-| **[SCT25](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**| Sunstoic's Charting Tool 2025 | Finished | includes indicator | Pinescript |
-| **[89RS](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/89RM%2089Rangebreakout%20Model.ipynb)** | The 8-9pm Rangebreakout Stoporder Method. An Opening Range Break (ORB) reference. | Ongoing | includes indicator and strategy  | Pinescript |
-| **[BAF](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/Broker%20account%20fetching.ipynb)** | Portfolio identification using python to fetch data from mt5| Finished | includes identification and chart plotting |  Python |
-| **[PyMT5](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/Using%20Python%20to%20plot%20charts%20from%20MT5's%20data%20feed.ipynb)** | Using Python to plot charts from MT5's data feed | Finished | includes chart plotting|  Python |
-| **[MarVP](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/Market%20Profile%20(volumedata%20ver).ipynb)** | Market Profile (volumedata ver), not TPO version| Finished | includes chart plotting and vertical profiles |  Python |
+## Concepts and Topics Folder
 
+|   View    |   Info    |   Status  |   Included Details    |   Language    |
+|-|-|-|-|-|
+| **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|    The Law of Large Numbers | Finished    |   Showcases the theory using simulated outcome, 6 side die and 2 side coin examples |   Python  |
+| **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|    Risk Management Formulas | Finished    |   mathematical formulas |   na  |
+| **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|    The three 30-min candle wickyoff pattern | Finished    |  entry model to have tighter stoploss to increase the R-multiple wihtout moving the TP target |   na  |
 
-## Deployed Trading bots
-| CODE | Info | Status | Included Details | Language|
-|------|------|--------|---------|-|
-| **[#1EATB](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/MT5-EA_1min%20hedge%20stoporders.ipynb)** | 1-min hedging Expert Advisor (EA) for MT5| Finished | includes EA automated trading bot, stoporder hedging, stoploss trailing, `4hour trail, six 1h, 12h finale (22hr+ tests)` `documented through research paper` |  MQL5 |
-
-## Concepts Lists
-
-| CODE | Info | Status | Details | Language|
-|------|------|--------|---------|-|
-| **[LLN](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Concepts%20and%20Topics/The%20Law%20of%20Large%20Numbers%20(LLN).ipynb)** | The Law of Large Numbers | Finished | Showcases the theory using simulated outcome, 6 side die and 2 side coin examples | Python |
-| **[RMF](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Concepts%20and%20Topics/Risk%20Management%20Logic.ipynb)** | Risk Management Formulas | Ongoing | Includes mathematical formulas | na |
-
-## Technique Lists
-
-| CODE | Info | Status | Details | Language|
-|------|------|--------|---------|-|
-| **[30WE](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/tree/main/Pinescript%20Language/Techniques)** | The three 30-minute candle wickyoff pattern as entry model to have tighter stoploss to increase the R-multiple | Finished | Inclueds Entry model strategy to tighten the SL size to increase R-multiple wihtout moving the TP target | na |
 ---
 
 ## 💡 Lifetime Moto
-
+>*"Do not hangout with people who either wants to drag you down or dont lift you up."*
+>
 >*"Stop bookmarking/saving shits. Take action."*
-
+>
 >*"Know what you want. Then do the rest."*
-
+>
 >*"If you think you are smart, but not rich, then it turns out to be that you are stupid."*
-
+>
 >*"Think enough, do well enough, and rest well enough. Repeat"*
-
->*"Tara! Patay ta na!?"*
+>
+>***"Tara! Patay ta! na!?"***
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=algorembrant&theme=whitek&hide_border=true&disable_animations=true" width=350">
