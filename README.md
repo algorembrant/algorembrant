@@ -42,14 +42,19 @@ Each project is documented.
 
 ## Indicator & Strategies Lists
 
-| CODE | Info | Status | Details | Language|
+| CODE | Info | Status | Included Details | Language|
 |------|------|--------|---------|-|
 | **[SCT25](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**| Sunstoic's Charting Tool 2025 | Finished | includes indicator | Pinescript |
 | **[89RS](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/89RM%2089Rangebreakout%20Model.ipynb)** | The 8-9pm Rangebreakout Stoporder Method. An Opening Range Break (ORB) reference. | Ongoing | includes indicator and strategy  | Pinescript |
 | **[BAF](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/Broker%20account%20fetching.ipynb)** | Portfolio identification using python to fetch data from mt5| Finished | includes identification and chart plotting |  Python |
 | **[PyMT5](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/Using%20Python%20to%20plot%20charts%20from%20MT5's%20data%20feed.ipynb)** | Using Python to plot charts from MT5's data feed | Finished | includes chart plotting|  Python |
 | **[MarVP](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/Market%20Profile%20(volumedata%20ver).ipynb)** | Market Profile (volumedata ver), not TPO version| Finished | includes chart plotting and vertical profiles |  Python |
-| **[HMQL](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/MT5-EA_1min%20hedge%20stoporders.ipynb)** | 1-min hedging Expert Advisor (EA) for MT5| Finished | includes EA automated trading bot, stoporder hedging, stoploss trailing, `22hr+ tests` `research paper` |  MQL5 |
+
+
+## Deployed Trading bots
+| CODE | Info | Status | Included Details | Language|
+|------|------|--------|---------|-|
+| **[#1EATB](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/MT5-EA_1min%20hedge%20stoporders.ipynb)** | 1-min hedging Expert Advisor (EA) for MT5| Finished | includes EA automated trading bot, stoporder hedging, stoploss trailing, `4hour trail, six 1h, 12h finale (22hr+ tests)` `documented through research paper` |  MQL5 |
 
 ## Concepts Lists
 
@@ -63,7 +68,6 @@ Each project is documented.
 | CODE | Info | Status | Details | Language|
 |------|------|--------|---------|-|
 | **[30WE](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/tree/main/Pinescript%20Language/Techniques)** | The three 30-minute candle wickyoff pattern as entry model to have tighter stoploss to increase the R-multiple | Finished | Inclueds Entry model strategy to tighten the SL size to increase R-multiple wihtout moving the TP target | na |
-
 ---
 
 ## 💡 Lifetime Moto
