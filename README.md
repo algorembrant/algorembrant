@@ -64,7 +64,7 @@ I program and make automated trading indicators, strategies, and executions. A q
 
 |   View    |   Info    |   Status  |   Included Details    |   Language    |
 |-|-|-|-|-|
-| **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|    Hedging Expert Advisor (EA) for MT5 | Finished    |   Deployed EA algorithmic trading bot, stoporder hedging, stoploss trailing, `4hour trial, six 1h, 12h finale (22hr+ duration tests)` `documented & research paper` |   MQL5  |
+| **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|    Hedging Expert Advisor (EA) for MT5 | Finished    |   Deployed EA algorithmic trading bot, stoporder hedging, stoploss trailing, `4hour trial, six 1h, 12h finale (22hr+ duration tests)` `documented & research paper` ![img](https://github.com/algorembrant/QAT-QuantitativeAlgorithmicTrading/blob/main/Images%20Folder/pasted-image%20(11).png) |   MQL5  |
 
 ## Concepts and Topics Folder
 
