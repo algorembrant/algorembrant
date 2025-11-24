@@ -31,7 +31,7 @@ I program and make automated trading indicators, strategies, and executions. A q
 
 ![img](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Images/pasted-image%20(9).png?raw=true)
 
-## Pinescript Folder (censored)
+## Pinescript Folder *(censored)*
 
 |   View    |   Info    |   Status  |   Included Details    |   Language    |
 |-|-|-|-|-|
@@ -41,7 +41,7 @@ I program and make automated trading indicators, strategies, and executions. A q
 | **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|    i4npc1m6&tpc3ncm,abn31u0r | Finished    |  bxotsipltnooa,dre |   Pinescript  |
 | **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|    arisioszgtpmnngiekrd | Finished    |  tdnocai,rdoiioysnpnseqrrgiwmcaau |   Pinescript  |
 
-## Python Folder (censored)
+## Python Folder *(censored)*
 
 |   View    |   Info    |   Status  |   Included Details    |   Language    |
 |-|-|-|-|-|
@@ -50,13 +50,13 @@ I program and make automated trading indicators, strategies, and executions. A q
 | **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|    ttrcghiaplnto | Finished    |  yecoaldto |   Python  |
 
 
-## MQL5 Folder (censored)
+## MQL5 Folder *(censored)*
 
 |   View    |   Info    |   Status  |   Included Details    |   Language    |
 |-|-|-|-|-|
 | **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|    aiegdggmnhpsdtmt5e ( ahxrieor)uet | Finished    |   rybne0htrc2ghsoroa,nd,tgtt,sdaiht’otnr-a.rldtutf,eesolsie0t,he4m1shfa)c(uwsrtcn,iprhdoeoee(t22+e  ![img](https://github.com/algorembrant/QAT-QuantitativeAlgorithmicTrading/blob/main/Images%20Folder/pasted-image%20(12).png) |   MQL5  |
 
-## Concepts and Topics Folder (censored)
+## Concepts and Topics Folder *(censored)*
 
 |   View    |   Info    |   Status  |   Included Details    |   Language    |
 |-|-|-|-|-|
