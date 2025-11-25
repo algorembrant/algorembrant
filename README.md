@@ -92,7 +92,7 @@ I program and make automated trading indicators, strategies, and executions. A q
 ---
 **notice:** *"DM me if you wanna see my projects/repositories, trading indicators & strategies, automated algorithmic bots & executions, and more. Nothing is free, i dont need your money either, its just that it requires intellect, and deffinitely not for the public side."*
 
-[***uncensored readme***](https://github.com/algorembrant/QAT-QuantitativeAlgorithmicTrading/blob/main/README.md)
+[***uncensored readme***](https://github.com/algorembrant/QAT-QuantitativeAlgorithmicTrading)
 
 
 
