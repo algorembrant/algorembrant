@@ -31,39 +31,6 @@ I program and make automated trading indicators, strategies, and executions. A q
 
 ![img](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Images/pasted-image%20(9).png?raw=true)
 
-## Pinescript Folder *(censored)*
-
-|   View    |   Info    |   Status  |   Included Details    |   Language    |
-|-|-|-|-|-|
-| **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|    lcs2o0ttaihnus5rhg’stoa2crti | Finished    |   drnopflet3icoi,ai,pvulefolirmei |   Pinescript  |
-| **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|  t-trhmd8og.eeppnroa9rbmneto | Finished    |   rrbriegnoec.nenic,aopdnfag |   Pinescript  |
-| **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|    aaatlgimsoinm/ieh | Finished    |  ctdyoeola |   Pinescript  |
-| **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|    i4npc1m6&tpc3ncm,abn31u0r | Finished    |  bxotsipltnooa,dre |   Pinescript  |
-| **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|    arisioszgtpmnngiekrd | Finished    |  tdnocai,rdoiioysnpnseqrrgiwmcaau |   Pinescript  |
-
-## Python Folder *(censored)*
-
-|   View    |   Info    |   Status  |   Included Details    |   Language    |
-|-|-|-|-|-|
-| **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|    ktcreaoiioouanbrndotpf | Finished    |   fhatgtmrdtsae,cpihtnaglmot |   Python  |
-| **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|    nemlvoa,dorvateuapk (eotp-bnasde) | Finished    |   cipltarhltvgnaersoi,p |   Python  |
-| **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|    ttrcghiaplnto | Finished    |  yecoaldto |   Python  |
-
-
-## MQL5 Folder *(censored)*
-
-|   View    |   Info    |   Status  |   Included Details    |   Language    |
-|-|-|-|-|-|
-| **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|    aiegdggmnhpsdtmt5e ( ahxrieor)uet | Finished    |   rybne0htrc2ghsoroa,nd,tgtt,sdaiht’otnr-a.rldtutf,eesolsie0t,he4m1shfa)c(uwsrtcn,iprhdoeoee(t22+e  ![img](https://github.com/algorembrant/QAT-QuantitativeAlgorithmicTrading/blob/main/Images%20Folder/pasted-image%20(12).png) |   MQL5  |
-
-## Concepts and Topics Folder *(censored)*
-
-|   View    |   Info    |   Status  |   Included Details    |   Language    |
-|-|-|-|-|-|
-| **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|    aerghmtehelgtonuornlb | Finished    |   doeecois,sim6srixttelaeua,dpd,ue |   Python  |
-| **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|    srgksafmnaaiuotrel | Finished    |   fhsamaoilrotaelm |   na  |
-| **[*link*](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Trading%20Indicators%2C%20Strategies%20%26%20Techniques/SCT%20Sunstoic's%20Charting%20Tool.ipynb)**|    rdiekyhwctpeaoienn-f3tdtocayknmwl3 ste | Finished    |  iotrdnteulnepge.hmscaioerootm, |   na  |
-
 ---
 
 
@@ -82,17 +49,13 @@ I program and make automated trading indicators, strategies, and executions. A q
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=algorembrant&theme=whitek&hide_border=true&disable_animations=true" width=350">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorembrant&layout=compact&stats_format=bytes&disable_animations=true&custom_title=Size&card_widthcard_width=100&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorembrant&layout=compact&stats_format=percent&disable_animations=true&custom_title=Size&card_widthcard_width=100&hide_border=true">
 </div>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=algorembrant.algorembrant&"  />
 </div>
 
----
-**notice:** *"DM me if you wanna see my projects/repositories, trading indicators & strategies, automated algorithmic bots & executions, and more. Nothing is free, i dont need your money either, its just that it requires intellect, and deffinitely not for the public side."*
-
-[***uncensored readme***](https://github.com/algorembrant/QAT-QuantitativeAlgorithmicTrading)
 
 
 
