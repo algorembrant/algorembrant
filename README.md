@@ -8,7 +8,7 @@ I'm actually a **1st-year college university dropout.** Unemployed. **I'm not th
 
 I program and make automated trading indicators, strategies, and executions. A quantitative algorithmic trader. I also make *ready-to-paste* scripts for you to copy or fork and have the bot *(not simulation)* for yourself. Enjoy!
 <div align="center" style="display:flex; gap:0;">
-  <img src="https://github.com/algorembrant/QAT-QuantitativeAlgorithmicTrading/blob/main/z.Images%20Folder/diagram-export-11-30-2025-10_57_09-AM.png?raw=true" width="1000"/>
+  <img src="https://github.com/algorembrant/QAT-QuantitativeAlgorithmicTrading/blob/main/z.Images%20Folder/diagram-export-11-30-2025-11_12_54-AM.png?raw=true" width="1000"/>
 </div>
 
 
