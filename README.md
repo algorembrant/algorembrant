@@ -44,8 +44,11 @@ Shut the FUCK up and go DO IT.
 You’ve thought about it long enough— DO IT.
 Think while DOING IT.
 
+The problem of Humans is that they were trying to knowing everything even the things they haven't done yet.
+They are overwhelmingly informed and enjoyed the feeling of becoming smart and all-knowing.
+
 People love to pretend they’re smart (without even knowing), forgetting that half their “ideas” aren’t even theirs.
-They chase dopamine from imagining someone else’s success, not realizing none of it is theirs.
+They chase dopamine from imagining someone else’s success and stories, not realizing none of it is theirs.
 
 So… why not you?
 
