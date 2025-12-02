@@ -58,7 +58,47 @@ I program and make automated trading indicators, strategies, and executions. A q
   <img src="https://visitor-badge.laobi.icu/badge?page_id=algorembrant.algorembrant&"  />
 </div>
 
+---
+## Short messege
 
+```
+Shut the FUCK up and go DO IT.
+You’ve thought about it long enough— DO IT.
+Think while doing it.
+
+People love to pretend they’re smart (without even knowing), forgetting that half their “ideas” aren’t even theirs.
+They chase dopamine from imagining someone else’s success, not realizing none of it is theirs.
+
+So… why not you?
+
+It’s simple:
+
+Shut the FUCK up and go do something MAGNIFICENT.
+Silence the thoughts you’re not acting on.
+If you won’t execute, those thoughts are useless, fucking TRASH.
+
+DO IT, and build while thinking.
+Follow your plan.
+Follow your dreams.
+Follow your goals.
+THINK while doing it.
+
+Don’t just die without achieving something meaningful.
+Don’t just regret anything you never even tried.
+Don’t just feel defeated when you haven’t even stepped to try it.
+
+If you’re tired—Reset, Rest, Recover, Repair.
+Then get back up if you're refereshed.
+
+Don’t forget to SHUT your fucking thoughts if you’re not acting upon it.
+Don’t forget to ACT upon your thoughts if you keep thinking about them.
+
+You’re ALIVE
+But you are killing the best version of yourself every day you choose not to operate in a functional way.
+
+This message isn’t for everyone.
+But if it hit you, then maybe it was for you.
+```
 
 
 
