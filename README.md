@@ -87,7 +87,7 @@ Don’t just die without achieving something meaningful.
 Don’t just regret anything you never even tried.
 Don’t just feel defeated when you haven’t even stepped to try it.
 
-If you’re tired—Reset, Rest, Recover, Repair.
+If you’re tired— Reset, Rest, Recover, and Repair.
 Then get back up if you're Refereshed.
 
 Don’t forget to SHUT your fucking thoughts if you’re not acting upon it.
