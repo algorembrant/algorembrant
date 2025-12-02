@@ -36,6 +36,10 @@ I program and make automated trading indicators, strategies, and executions. A q
 ### Short Message 
 
 ```
+This is not a motivation nor affirmations
+It's reality, as it goes;
+
+
 Shut the FUCK up and go DO IT.
 You’ve thought about it long enough— DO IT.
 Think while DOING IT.
@@ -69,6 +73,7 @@ Don’t forget to ACT upon your thoughts if you keep thinking about it.
 
 You’re ALIVE
 But you are killing the best version of yourself every day you choose not to operate in a functional way.
+
 
 This message isn’t for everyone.
 But if it hit you, then maybe it was for you.
