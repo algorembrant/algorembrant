@@ -33,33 +33,7 @@ I program and make automated trading indicators, strategies, and executions. A q
 
 ![img](https://github.com/algorembrant/Pinescript.TradingView-Indicators.and.Strategies/blob/main/Images/pasted-image%20(9).png?raw=true)
 
----
-
-
-## 💡 Lifetime Moto
->*"Do not hangout with people who either wants to drag you down or dont lift you up."*
->
->*"Stop bookmarking/saving shits. Take action."*
->
->*"Know what you want. Then do the rest."*
->
->*"If you think you are smart, but not rich, then it turns out to be that you are stupid."*
->
->*"Think enough, do well enough, and rest well enough. Repeat"*
->
->***"Tara! Patay ta! na!?"***
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=algorembrant&theme=whitek&hide_border=true&disable_animations=true" width=350">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorembrant&layout=compact&stats_format=percent&disable_animations=true&custom_title=Size&card_widthcard_width=100&hide_border=true">
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=algorembrant.algorembrant&"  />
-</div>
-
----
-## Short messege
+### Short Message 
 
 ```
 Shut the FUCK up and go DO IT.
@@ -99,6 +73,33 @@ But you are killing the best version of yourself every day you choose not to ope
 This message isn’t for everyone.
 But if it hit you, then maybe it was for you.
 ```
+
+---
+
+
+## 💡 Lifetime Moto
+>*"Do not hangout with people who either wants to drag you down or dont lift you up."*
+>
+>*"Stop bookmarking/saving shits. Take action."*
+>
+>*"Know what you want. Then do the rest."*
+>
+>*"If you think you are smart, but not rich, then it turns out to be that you are stupid."*
+>
+>*"Think enough, do well enough, and rest well enough. Repeat"*
+>
+>***"Tara! Patay ta! na!?"***
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=algorembrant&theme=whitek&hide_border=true&disable_animations=true" width=350">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorembrant&layout=compact&stats_format=percent&disable_animations=true&custom_title=Size&card_widthcard_width=100&hide_border=true">
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=algorembrant.algorembrant&"  />
+</div>
+
+---
 
 
 
