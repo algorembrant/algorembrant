@@ -64,7 +64,7 @@ I program and make automated trading indicators, strategies, and executions. A q
 ```
 Shut the FUCK up and go DO IT.
 You’ve thought about it long enough— DO IT.
-Think while doing it.
+Think while DOING IT.
 
 People love to pretend they’re smart (without even knowing), forgetting that half their “ideas” aren’t even theirs.
 They chase dopamine from imagining someone else’s success, not realizing none of it is theirs.
