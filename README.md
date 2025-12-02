@@ -88,10 +88,10 @@ Don’t just regret anything you never even tried.
 Don’t just feel defeated when you haven’t even stepped to try it.
 
 If you’re tired—Reset, Rest, Recover, Repair.
-Then get back up if you're refereshed.
+Then get back up if you're Refereshed.
 
 Don’t forget to SHUT your fucking thoughts if you’re not acting upon it.
-Don’t forget to ACT upon your thoughts if you keep thinking about them.
+Don’t forget to ACT upon your thoughts if you keep thinking about it.
 
 You’re ALIVE
 But you are killing the best version of yourself every day you choose not to operate in a functional way.
