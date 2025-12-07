@@ -108,6 +108,6 @@ But if it hit you, then maybe it was for you.
 </div>
 
 ---
-
+It would be nice if GitHub can read effort (contribution points) in using GoogleDocs, GoogleSheets, Overleaf, and JupyterLab. Otherwise, its not recorded in low contribution points, LOL. I already even made self-made docments, 1500+ pages using long bondpaper 11 font size. Bruh
 
 
